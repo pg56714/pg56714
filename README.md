@@ -28,24 +28,19 @@ Currently a student, I have gained two years of internship experience in the inf
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<p align="center">
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=pg56714&theme=radical&hide_border=true&count_private=true" />
+  <img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=pg56714&theme=radical&show_icons=true&hide_border=true&count_private=true" />
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pg56714\&rank_icon=github)
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=pg56714&theme=tokyonight" />
+</div>
 
-<!--
-<a href="http://www.github.com/pg56714"><img src="https://github-readme-stats.vercel.app/api?username=pg56714&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="pg56714's GitHub stats" /></a>
--->
-
-<a href="http://www.github.com/pg56714"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pg56714&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<!--
-<a href="https://github.com/pg56714" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pg56714&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&hide=jupyter%20notebook" alt="Top Languages" /></a>
-
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=pg56714)
--->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pg56714/pg56714/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pg56714/pg56714/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pg56714/pg56714/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pg56714/pg56714/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pg56714/pg56714/output/github-contribution-grid-snake.svg">
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pg56714/pg56714/output/github-contribution-grid-snake.svg">
+    </picture>
+</div>
