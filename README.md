@@ -29,8 +29,8 @@ Currently a student, I have gained two years of internship experience in the inf
 ### Badges
 
 <p align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=pg56714&theme=radical&hide_border=true&count_private=true" />
-  <img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=pg56714&theme=radical&show_icons=true&hide_border=true&count_private=true" />
+  <img height=160 src="https://github-readme-stats.vercel.app/api?username=pg56714&theme=radical&hide_border=true&count_private=true" />
+  <img height=160 src="https://github-readme-streak-stats.herokuapp.com/?user=pg56714&theme=radical&show_icons=true&hide_border=true&count_private=true" />
 </p>
 
 <div align="center">
