@@ -1,11 +1,9 @@
 Hi 👋 My name is Sam Hong
 =========================
+Currently a student, I have gained two years of internship experience in the information technology industry, with a focus on software development. While not actively seeking full-time employment at the moment, I am committed to expanding my skills and knowledge in this area.
 
 Software Engineer
 -----------------
-
-Currently a student, I have gained two years of internship experience in the information technology industry, with a focus on software development. While not actively seeking full-time employment at the moment, I am committed to expanding my skills and knowledge in this area.
-
 * 🌍  I'm based in Taiwan
 * 🖥️  See my portfolio at [Coming soon](http://github.com/pg56714)
 * ✉️  You can contact me at [pg785632541@gmail.com](mailto:pg785632541@gmail.com)
