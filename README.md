@@ -5,7 +5,7 @@ Currently a student, I have gained two years of internship experience in the inf
 Software Engineer
 -----------------
 * 🌍  I'm based in Taiwan
-* 🖥️  See my portfolio at [Coming soon](http://github.com/pg56714)
+* 🖥️  See my portfolio at [portfolio Coming soon](http://github.com/pg56714) 、 [myBlog](https://pg56714-log.vercel.app) 、 [myResume](https://pg56714-log.vercel.app/resume)
 * ✉️  You can contact me at [pg785632541@gmail.com](mailto:pg785632541@gmail.com)
 * 🚀  I'm currently working on [FlutterAPP](http://NoOpen)
 * 🧠  I'm learning DSA
