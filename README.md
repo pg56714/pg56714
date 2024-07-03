@@ -1,6 +1,6 @@
 Hi 👋 My name is Sam Hong
 =========================
-I am currently a student and have gained two years of internship experience in the information technology industry, focusing on software development. While I am not actively seeking full-time employment at the moment, I am dedicated to enhancing my skills and knowledge in this field.
+I am currently pursuing my master's degree and have acquired two years of internship experience in the information technology sector, specializing in software development. I am committed to continually advancing my skills and expertise in this field.
 
 Software Engineer
 -----------------
