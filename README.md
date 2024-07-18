@@ -26,13 +26,22 @@ Software Engineer
 
 ### Badges
 
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=pg56714&column=9&theme=tokyonight&no-frame=true" />
+</div>
+
 <p align="center">
-  <img height=160 src="https://github-readme-stats.vercel.app/api?username=pg56714&theme=radical&hide_border=true&count_private=true" />
+  <img height=160 src="https://github-readme-stats-steel-omega.vercel.app/api?username=pg56714&theme=radical&hide_border=true&count_private=true&show_icons=true&rank_icon=github" />
   <img height=160 src="https://github-readme-streak-stats.herokuapp.com/?user=pg56714&theme=radical&show_icons=true&hide_border=true&count_private=true" />
 </p>
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=pg56714&theme=tokyonight" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pg56714&theme=tokyo-night" />
+</div>
+
+<div align="center">
+    <img src="https://leetcard.jacoblin.cool/pg56714?theme=unicorn&font=Noto%20Traditional%20Nushu&ext=activity" />
+    <!-- <img src="https://leetcard.jacoblin.cool/pg56714?theme=unicorn&font=Noto%20Traditional%20Nushu&ext=contest" /> -->
 </div>
 
 <div align="center">
