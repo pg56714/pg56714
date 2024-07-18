@@ -2,6 +2,10 @@ Hi 👋 My name is Sam Hong
 =========================
 I am currently pursuing my master's degree and have acquired two years of internship experience in the information technology sector, specializing in software development. I am committed to continually advancing my skills and expertise in this field.
 
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Student;I+am+a+Graduate+Student;I+am+a+Software+Engineer;I+like+to+Develop+Everything" alt="Typing SVG" />
+</a>
+
 Software Engineer
 -----------------
 * 🌍  I'm based in Taiwan
