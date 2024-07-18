@@ -43,12 +43,13 @@ Software Engineer
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=pg56714&theme=tokyo-night" />
 </div>
 
+<!-- 
 <br>
 
 <div align="center">
-    <img src="https://leetcard.jacoblin.cool/pg56714?theme=unicorn&font=Noto%20Traditional%20Nushu&ext=activity" />
-    <!-- <img src="https://leetcard.jacoblin.cool/pg56714?theme=unicorn&font=Noto%20Traditional%20Nushu&ext=contest" /> -->
+    <img src="https://leetcard.jacoblin.cool/pg56714?theme=unicorn&font=Noto%20Traditional%20Nushu&ext=contest" />
 </div>
+-->
 
 <div align="center">
     <picture>
