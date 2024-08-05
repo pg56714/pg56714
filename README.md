@@ -31,7 +31,7 @@ Software Engineer
 ### Badges
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=pg56714&column=9&theme=tokyonight&no-frame=true" />
+    <img src="https://github-profile-trophy.vercel.app/?username=pg56714&column=5&theme=tokyonight&no-frame=true" />
 </div>
 
 <br>
