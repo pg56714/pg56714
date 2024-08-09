@@ -37,7 +37,8 @@ Software Engineer
 <br>
 
 <p align="center">
-  <img height=160 src="https://github-readme-stats-steel-omega.vercel.app/api?username=pg56714&theme=radical&hide_border=true&count_private=true&show_icons=true&rank_icon=github" />
+<!--   <img height=160 src="https://github-readme-stats-steel-omega.vercel.app/api?username=pg56714&theme=radical&hide_border=true&count_private=true&show_icons=true&rank_icon=github" /> -->
+  <img height=160 src="https://github-readme-stats-steel-omega.vercel.app/api?username=pg56714&theme=radical&hide_border=true&count_private=true&show_icons=true" />
   <img height=160 src="https://github-readme-streak-stats.herokuapp.com/?user=pg56714&theme=radical&show_icons=true&hide_border=true&count_private=true" />
 </p>
 <!-- 
