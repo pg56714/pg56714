@@ -49,13 +49,11 @@ Software Engineer
 </div>
 -->
 
-<!-- 
 <br>
 
 <div align="center">
     <img src="https://leetcard.jacoblin.cool/pg56714?theme=unicorn&font=Noto%20Traditional%20Nushu&ext=contest" />
 </div>
--->
 
 <div align="center">
     <picture>
