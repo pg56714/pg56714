@@ -6,16 +6,6 @@ I am currently pursuing my master's degree and have acquired two years of intern
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Student;I+am+a+Graduate+Student;I+am+a+Software+Engineer;I+like+to+Develop+Everything" alt="Typing SVG" />
 </a>
 
-Software Engineer
------------------
-* 🌍  I'm based in Taiwan
-* 🖥️  See my portfolio at [myPortfolio](https://pg56714-portfolio.vercel.app) 、 [myBlog](https://pg56714-log.vercel.app) 、 [myResume](https://pg56714-log.vercel.app/resume)
-* ✉️  You can contact me at [pg785632541@gmail.com](mailto:pg785632541@gmail.com)
-* 🚀  I'm currently working on my life
-* 🧠  I'm learning DS₳
-* 🤝  I'm open to collaborating on Projects
-* ⚡  Hello World
-
 ### Skills
 
 <p align="left">
