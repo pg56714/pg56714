@@ -1,6 +1,6 @@
 Hi 👋 My name is Sam Hong
 =========================
-I am currently pursuing my master's degree and have acquired two years of internship experience in the information technology sector, specializing in software development. I am committed to continually advancing my skills and expertise in this field.
+With a focus on software development, I am dedicated to continuously enhancing my skills and deepening my expertise in the field.
 
 ### Skills
 
