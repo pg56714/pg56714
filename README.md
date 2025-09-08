@@ -43,6 +43,8 @@ With a focus on software development, I am dedicated to continuously enhancing m
     </picture>
 </div>
 
+<br>
+
 <div align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pg56714/pg56714/output/pacman-contribution-graph-dark.svg">
