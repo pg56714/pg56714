@@ -11,7 +11,7 @@ With a focus on software development, I am dedicated to continuously enhancing m
 ### Badges
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=pg56714&column=5&theme=tokyonight&no-frame=true" />
+    <img src="https://github-profile-repo.vercel.app/?username=pg56714&column=5&theme=tokyonight&no-frame=true" />
 </div>
 
 <br>
